@@ -1,0 +1,17 @@
+[33mcommit 589c87a71ecb82cb8f344eeb7495cf3a1db8609c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Dasari Gowtham <2200030425@kluniversity.in>
+Date:   Sun Dec 8 01:59:48 2024 +0530
+
+    V1.0
+
+[33mcommit 7eacb986b435ecd6ccb2f2d255f77f4d03a21317[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: klu-2200030810 <2200030810@kluniversity.in>
+Date:   Thu Oct 3 13:38:39 2024 +0530
+
+    first commit
+
+[33mcommit 8073f5e46f24d38bb632d579d096dee9c2dd8651[m
+Author: klu-2200030810 <2200030810@kluniversity.in>
+Date:   Sun Sep 22 14:37:54 2024 +0530
+
+    Initialize project using Create React App

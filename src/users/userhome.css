@@ -1,0 +1,15 @@
+ .card {
+    transition: transform 0.3s; /* Smooth scaling transition */
+  }
+  
+  .card:hover {
+    transform: scale(1.05); /* Scale up on hover */
+  }
+  
+  .card-title {
+    font-size: 1.2rem; /* Adjust title size */
+  }
+  
+  .card-text {
+    font-size: 0.9rem; /* Adjust text size */
+  }
